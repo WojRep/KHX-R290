@@ -2,7 +2,7 @@
 Parametry Kaisai KHX-09PY1 - R290
 
 
-Zapraszam do opisywania dokłądnego działania poszcze©ólnych parametrów i zamieszczania recept usprawniających sterowanie.
+Zapraszam do opisywania dokłądnego działania poszczególnych parametrów i zamieszczania recept usprawniających sterowanie.
 
 ### UWAGA !!!
 Zmieniająć parametry pracy pompy można doprowadzić do róznych problemów włącznie z doprowadzeniem do uszkodzenia podzespołów Pompy Ciepła, nadmiarowego żużycia podzespołów lub wzrostu zużycia energii elektrycznej. Zmiany parametrów wykonujesz wyłacznie na własne ryzyko i może skutkować utratą gwarancji.
